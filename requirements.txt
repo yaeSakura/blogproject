@@ -1,0 +1,8 @@
+Django==1.11.3
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+olefile==0.44
+Pillow==4.1.1
+PyMySQL==0.7.11
+pytz==2017.2

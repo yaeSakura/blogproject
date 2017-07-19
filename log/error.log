@@ -1,0 +1,104 @@
+2017-06-23 09:43:58,602 [Thread-2:724] [blog.views:13] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2017-06-23 11:45:19,345 [Thread-2:2836] [blog.views:20] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2017-06-23 11:46:41,637 [Thread-2:5288] [blog.views:21] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2017-06-23 11:46:44,124 [Thread-8:3092] [blog.views:21] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2017-06-23 11:46:45,411 [Thread-9:752] [blog.views:21] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2017-06-23 11:46:46,410 [Thread-10:3968] [blog.views:21] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2017-06-27 13:47:57,510 [Thread-44:6192] [blog.views:37] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 13:48:03,181 [Thread-66:7324] [blog.views:37] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 13:48:09,007 [Thread-67:7048] [blog.views:37] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 13:48:25,767 [Thread-73:4476] [blog.views:37] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 13:49:03,819 [Thread-79:7788] [blog.views:37] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 13:49:11,980 [Thread-2:7252] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 13:49:26,579 [Thread-7:7300] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 13:50:44,914 [Thread-15:7472] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 13:52:57,996 [Thread-19:5248] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:27:00,111 [Thread-2:8088] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:27:06,869 [Thread-3:7812] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:27:08,532 [Thread-4:7740] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:34:43,417 [Thread-8:7916] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:34:45,907 [Thread-9:7760] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:35:55,752 [Thread-10:7756] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:35:57,158 [Thread-11:7676] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:35:57,963 [Thread-12:7648] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:35:58,744 [Thread-13:8052] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:35:59,473 [Thread-14:8032] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:36:00,811 [Thread-15:7956] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:36:01,608 [Thread-16:6076] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:36:02,500 [Thread-17:7352] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:36:03,216 [Thread-18:1344] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:36:04,141 [Thread-19:7748] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:36:04,857 [Thread-20:4756] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:36:05,703 [Thread-21:5876] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:42:28,497 [Thread-2:7660] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:43:14,894 [Thread-4:7200] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:44:43,331 [Thread-6:6928] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:45:00,845 [Thread-2:7316] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:45:35,884 [Thread-4:7320] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:51:55,111 [Thread-2:2052] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:54:17,638 [Thread-2:7472] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:54:18,655 [Thread-3:5780] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 15:54:19,805 [Thread-4:4348] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:00:28,372 [Thread-4:7584] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:02:17,650 [Thread-2:7380] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:03:47,043 [Thread-8:3452] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:04:07,720 [Thread-2:6928] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:05:23,976 [Thread-2:6264] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:06:42,369 [Thread-8:8000] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:11:36,845 [Thread-2:3080] [blog.views:39] [views:index] [ERROR]- an integer is required
+2017-06-27 16:11:40,038 [Thread-3:5876] [blog.views:39] [views:index] [ERROR]- an integer is required
+2017-06-27 16:11:55,854 [Thread-7:5596] [blog.views:39] [views:index] [ERROR]- an integer is required
+2017-06-27 16:11:58,559 [Thread-2:5084] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:16:20,210 [Thread-6:1200] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:20:46,371 [Thread-2:8116] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:20:47,891 [Thread-4:8092] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:20:50,398 [Thread-5:7352] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:20:51,201 [Thread-6:7692] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:21:47,283 [Thread-7:7540] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:23:05,627 [Thread-2:5876] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:28:37,315 [Thread-2:7508] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:28:41,299 [Thread-3:4884] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:28:42,371 [Thread-4:7252] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:34:23,030 [Thread-2:5084] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:34:26,440 [Thread-3:7624] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:34:29,640 [Thread-5:4612] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:35:08,476 [Thread-7:7664] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:35:16,523 [Thread-2:7852] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:35:37,801 [Thread-4:7972] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:35:42,617 [Thread-2:4688] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:35:57,535 [Thread-3:4460] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:37:59,934 [Thread-2:7192] [blog.views:39] [views:index] [ERROR]- decoding Unicode is not supported
+2017-06-27 16:38:57,440 [Thread-2:6016] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:38:59,930 [Thread-3:2088] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:39:38,438 [Thread-5:7308] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:06,476 [Thread-2:7504] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:08,288 [Thread-6:7912] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:09,946 [Thread-7:5324] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:10,766 [Thread-8:1152] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:11,529 [Thread-9:8128] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:12,457 [Thread-10:7620] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:13,441 [Thread-11:184] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:22,374 [Thread-12:8184] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:48:24,753 [Thread-2:5720] [blog.views:39] [views:index] [ERROR]- 'list' object has no attribute 'strftime'
+2017-06-27 16:53:13,089 [Thread-2:8100] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:53:15,380 [Thread-3:7632] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:53:16,224 [Thread-4:5596] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:53:17,000 [Thread-5:8048] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:53:17,759 [Thread-10:6304] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:53:18,513 [Thread-11:5360] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:53:19,174 [Thread-12:6600] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:53:20,743 [Thread-13:4180] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-27 16:53:22,844 [Thread-14:4680] [blog.views:39] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2017-06-28 09:51:03,365 [Thread-2:5020] [blog.views:48] [views:archive] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-06-28 09:52:06,102 [Thread-2:5708] [blog.views:36] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-06-28 09:52:30,974 [Thread-5:6804] [blog.views:36] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-06-28 09:52:32,730 [Thread-6:5500] [blog.views:36] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-06-28 09:52:47,973 [Thread-8:6820] [blog.views:36] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-06-28 09:53:34,351 [Thread-9:7016] [blog.views:36] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-06-28 09:54:11,586 [Thread-10:6884] [blog.views:36] [views:index] [ERROR]- getPage() takes exactly 2 arguments (1 given)
+2017-06-28 10:19:16,660 [Thread-2:3888] [blog.views:48] [views:archive] [ERROR]- type object 'Article' has no attribute 'objects'
+2017-06-28 10:19:19,937 [Thread-5:4616] [blog.views:48] [views:archive] [ERROR]- type object 'Article' has no attribute 'objects'
+2017-06-28 10:19:20,884 [Thread-6:4108] [blog.views:48] [views:archive] [ERROR]- type object 'Article' has no attribute 'objects'
+2017-06-28 10:19:37,466 [Thread-8:6556] [blog.views:36] [views:index] [ERROR]- type object 'Article' has no attribute 'objects'
+2017-06-28 10:19:59,536 [Thread-10:6648] [blog.views:36] [views:index] [ERROR]- type object 'Article' has no attribute 'objects'
+2017-06-28 10:20:29,331 [Thread-12:6916] [blog.views:36] [views:index] [ERROR]- type object 'Article' has no attribute 'objects'
